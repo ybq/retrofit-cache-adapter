@@ -1,0 +1,1 @@
+#retrofit-cache-adapter
